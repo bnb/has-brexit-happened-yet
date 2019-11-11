@@ -1,6 +1,6 @@
 {
   "name": "has-brexit-happened-yet",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "bin": {
     "has-brexit-happened-yet": "bin/cli.js"
