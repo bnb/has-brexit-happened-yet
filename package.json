@@ -1,0 +1,23 @@
+{
+  "name": "has-brexit-happened-yet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "has-brexit-happened-yet": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/has-brexit-happened-yet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bnb/has-brexit-happened-yet/issues"
+  },
+  "homepage": "https://github.com/bnb/has-brexit-happened-yet#readme",
+  "description": ""
+}
